@@ -3,22 +3,22 @@
     "path": "C:/Users/Кирилл/Desktop/PROG/github/website-ru/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "2378970247",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1648644174607.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
-        "cursorPosition": "31,88",
+        "cursorPosition": "31,100",
         "scrollLine": "23"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648646528,
+    "lastKnownWriteTime": 1648646885,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648646528461,
+    "last_content_update": 1648646885316,
     "read_only": false,
     "read_only_alternatives": []
 }

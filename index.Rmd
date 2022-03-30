@@ -29,7 +29,7 @@ title: "Кирилл Гулиев"
 `r fontawesome::fa(name = "r-project", fill = "steelblue", height = "4em", margin_right = "2em", margin_left = "21.5em")` `r fontawesome::fa(name = "python", height = "4em", margin_right = "2em")` `r fontawesome::fa(name = "database", height = "4em")`
 
  
- > Я убежден в своей высокой способности быстро и эффективно обучаться новым дисциплинам и технологям 
+ > Я убежден в своей высокой способности быстро и эффективно обучаться новым дисциплинам и технологиям 
  
 - У меня довольно продвинутые знания в R: я работаю, в основном, используя набор пакетов `tydiverse` (большое спасибо за это Х. Викхэму и его книге по использованию [R](https://r4ds.had.co.nz/) в аналитике и в задачах науки о данных; также спасибо моему первому серьезному месту работы, ЭКОПСИ Консалтинг, где я профессионально вырос). Более того, я также умею работать в рамках философии пакет `data.table`. По [ссылке](https://www.datacamp.com/statement-of-accomplishment/track/fb848fe18f7ccf94accb08a5eefedaefeb9eef7f) вы сможете найти сертификат о завершении курса Data Science in R на платформе DataCamp 
 
