@@ -7,9 +7,9 @@ navbar:
     - icon: fa-home fa-lg
       href: index.html
     - text: "CV"
-      href: https://disk.yandex.ru/i/E3kxcIr3iSkHJA
+      href: https://disk.yandex.ru/i/w6R6VSAj4R4mag
     - text: "Consultant CV"
-      href: https://disk.yandex.ru/i/UoO8JmiRTffQWQ
+      href: https://disk.yandex.ru/i/-Gjq_rIR4XyQKw
     - text: "Проекты"
       href: projects.html
   right:
